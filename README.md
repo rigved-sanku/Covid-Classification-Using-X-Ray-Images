@@ -1,5 +1,5 @@
 # Covid-Classification-Using-X-Ray-Images
-Built a Convolution Neural Network Model to predict Positive or Negative Covid-19 cases from X ray images of patient's lungs within a accuracy around 95% of training set and 100% accuracy with testing set using Keras libraries.
+Built a Convolution Neural Network Model to predict Positive or Negative Covid-19 cases from X ray images of patient's lungs within a accuracy around 95% of training set and 98% accuracy with testing set using Keras libraries.
 
 A CNN Network for Binary classification 
 ![image](https://user-images.githubusercontent.com/63362412/123130372-599cc400-d46a-11eb-9ede-f2c01fcf5597.png)
